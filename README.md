@@ -1,6 +1,11 @@
 # Extra-Capusle
 The ExtraCapsule Database API is a PHP script that serves as an API endpoint for managing data in an SQLite database.
-[![Run on Replit](https://replit.com/badge/github/@Nava10y/Database)](https://replit.com/@Nava10y/)
+
+This project is part of "Database" which can be found [here](https://replit.com/@Nava10y/)
+
+
+[![Link To My Profile](https://replit.com/badge/github/@Nava10y/Database)](https://replit.com/@Nava10y/)
+
 
 
 > ## API Features:
